@@ -1,4 +1,8 @@
-	String name = "abdelrahman"; 
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+		String name = "abdelrahman"; 
 		int age =  17 ;
 		
 		System.out.println(" my age is " + age );
