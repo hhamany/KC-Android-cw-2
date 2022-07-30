@@ -1,0 +1,15 @@
+public class Main
+{
+	public static void main(String[] args) {
+	
+	int x = 160; 
+	if ( x>=160 ) {
+	  System.out.println("you can inter the game");   
+	}
+	else if ( x<160 ) {
+	     System.out.println("you can not join the game");
+	}
+	    
+	}
+}
+	    
